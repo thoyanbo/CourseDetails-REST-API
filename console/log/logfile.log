@@ -1,0 +1,7 @@
+time="12-04-2021 19:50:42" level=error msg="Incorrect input format for course code detected at delete function."
+time="12-04-2021 21:28:31" level=error msg="Incorrect input format for dates input detected at create function."
+time="12-04-2021 21:36:48" level=error msg="Incorrect input format for dates input detected at create function."
+time="12-04-2021 21:43:26" level=error msg="Incorrect input format for dates input detected at create function."
+time="12-04-2021 21:45:03" level=error msg="Incorrect input format for dates input detected at create function."
+time="12-04-2021 21:51:51" level=error msg="Incorrect input format for dates input detected at update function."
+time="13-04-2021 16:36:04" level=error msg="Incorrect input format for dates input detected at create function."

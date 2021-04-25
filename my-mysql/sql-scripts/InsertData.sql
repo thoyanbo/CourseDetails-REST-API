@@ -1,0 +1,5 @@
+INSERT INTO CourseInfo (`Code`,`Title`,`Dates`,`Lecturer`,`Description`) VALUES ('1','Go Basic','13th - 15th Jan 2021','Ching Yun Lee','Basic Programming Knowledge about Golang');
+INSERT INTO CourseInfo (`Code`,`Title`,`Dates`,`Lecturer`,`Description`) VALUES ('2','Go Advanced','28 Jan - 3 Feb 2021','Ben Low','Learn advanced concepts in Go programming such as as packages, creation of data structures and error handling mechanism. ');
+INSERT INTO CourseInfo (`Code`,`Title`,`Dates`,`Lecturer`,`Description`) VALUES ('3','Go In Action 1','24-26 Feb 2021','Ben Low','Explore the practical aspects of Go software development in detail.');
+INSERT INTO CourseInfo (`Code`,`Title`,`Dates`,`Lecturer`,`Description`) VALUES ('4','Go In Action II','17-19 March 2021','Ching Yun Lee','A course about Go Security Best Practices');
+INSERT INTO CourseInfo (`Code`,`Title`,`Dates`,`Lecturer`,`Description`) VALUES ('5','Go MicroService I','5 - 7 April 2021','Ching Yun Lee','Introduction to Microservices, APIs, containerization and microservice framworks');

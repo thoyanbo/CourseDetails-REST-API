@@ -1,0 +1,1 @@
+CREATE TABLE CourseInfo (Code INT NOT NULL PRIMARY KEY, Title VARCHAR (30), Dates VARCHAR (30), Lecturer VARCHAR (50), Description VARCHAR (250));
